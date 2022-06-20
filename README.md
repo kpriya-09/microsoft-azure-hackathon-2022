@@ -1,7 +1,7 @@
 # W-Shop 
 By Team Enigmatic 
 
-## Idea:
+## Idea
 
 Female consumers is India have been long ignored. Our findings suggest that companies would benefit by paying attention to India’s female rural consumers’ hopes and dreams and crafting the right strategies for fulfilling them. <br />
 To devise offerings and marketing campaigns that will appeal to these consumers, companies need to understand—and then let go of—all-too-common myths about female consumers in India’s hinterlands. <br />
