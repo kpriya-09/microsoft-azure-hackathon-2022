@@ -1,6 +1,6 @@
 # W-Shop 
 <br />
-By Team Enigmatic <br />
+By Team Enigmatic 
 ## Idea:
 
 Female consumers is India have been long ignored. Our findings suggest that companies would benefit by paying attention to India’s female rural consumers’ hopes and dreams and crafting the right strategies for fulfilling them. <br />
