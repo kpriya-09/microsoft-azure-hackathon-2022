@@ -1,3 +1,7 @@
+## Implementation
+
+# Requirements
+
 In our solution, we will be deploying the following resources into our Resource Group: <br />
 App Service <br />
 Function App <br />
