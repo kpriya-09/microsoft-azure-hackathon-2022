@@ -1,4 +1,4 @@
-As part of this scenario, you will be deploying the following resources into a Resource Group: <br />
+In our solution, we will be deploying the following resources into our Resource Group: <br />
 App Service <br />
 Function App <br />
 Azure Active Directory B2C <br />
