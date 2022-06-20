@@ -1,5 +1,4 @@
 # W-Shop 
-<br />
 By Team Enigmatic 
 
 ## Idea:
@@ -18,3 +17,21 @@ Architecture for first part of our solution: <br />
 Architecture for second part of our solution: <br />
 ![azure-hack-2](https://user-images.githubusercontent.com/74253329/174651692-1725c3b0-835a-45d3-bd25-995df488834e.png)
 
+## Requirements
+
+In our solution, we will be deploying the following resources into our Resource Group: <br />
+App Service <br />
+Function App <br />
+Azure Active Directory B2C <br />
+Application Insights <br />
+Redis Cache <br />
+Search Service <br />
+SQL Database <br />
+Storage Account <br />
+Content Delivery Network <br />
+Cognitive Services <br />
+Traffic Manager <br />
+App Service Domain <br />
+DNS Zone <br />
+App Service Certificate <br />
+Key Vault <br />
