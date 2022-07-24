@@ -14,7 +14,7 @@ Search Service <br />
 CosmosDB <br />
 Storage Account <br />
 
-## Implentation
+## Implementation
 ![ss1](https://user-images.githubusercontent.com/50752220/174659303-5050c72e-797f-4a17-9d9d-479731e6fdb2.png)
 
 ![ss2](https://user-images.githubusercontent.com/50752220/174659320-6ffa301c-bf5f-4b18-9b0d-8aad7838194f.png)
