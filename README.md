@@ -1,7 +1,7 @@
 # W-Shop 
 By Team Enigmatic 
 
-Live Demo - [WShop] (https://wshopforruralwomen.z13.web.core.windows.net/index.html)
+Live Demo - [WShop](https://wshopforruralwomen.z13.web.core.windows.net/index.html)
 
 ## Idea
 
