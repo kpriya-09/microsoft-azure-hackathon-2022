@@ -3,6 +3,8 @@ By Team Enigmatic
 
 Live Demo - [WShop](https://wshopforruralwomen.z13.web.core.windows.net/index.html)
 
+Video Demo - [WShop](https://drive.google.com/file/d/1u8xU3kG2jZ_z60NhoEWZ8PMyCFkxgW8O/view?usp=sharing)
+
 ## Idea
 
 Female consumers is India have been long ignored. Our findings suggest that companies would benefit by paying attention to India’s female rural consumers’ hopes and dreams and crafting the right strategies for fulfilling them. <br />
