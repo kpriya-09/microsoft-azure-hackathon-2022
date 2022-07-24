@@ -3,10 +3,23 @@ body{
     justify-content: center;
     flex-direction: column; */
     background-color: #ede2fa;
+    background-image: url('/banner4.png');
     /* text-align: center; */
     margin: 0;
     padding: 0;
 }
+.btn{
+    margin:6rem;
+    padding:15px;
+    color: #1e1d1d;
+    background: #d7adeb;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: larger;
+    cursor: pointer;
+    text-decoration:none;
+  }
+  
 ul{
     display:inline;
 }

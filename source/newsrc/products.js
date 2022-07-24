@@ -18,12 +18,15 @@ function getCartArr(){
 
 // loads product data 
 const loadProducts = () => {
-    const baseUrl = "https://dummyproducts-api.herokuapp.com";
+    // const baseUrl = "https://dummyproducts-api.herokuapp.com";
+    const baseUrl = "/products.json";
     const mykey = "CrLqTfmXE_7t";
     $.ajax({
-        url: `${baseUrl}/api/v1/products?apikey=${mykey}`,
+        // url: `${baseUrl}/api/v1/products?apikey=${mykey}`,
+        url: `${baseUrl}`,
         method: "GET",
         success(res){
+            console.log(res);
             productsArr = res.data;
             displayProductsDOM(res.data);
         },
@@ -40,9 +43,8 @@ function displayProductsDOM(products){
             <div class="product-info">
                 <img src="${product.product_image_md}" alt="product-image">
                 <h4>${product.product_name}</h4>
-                <h5>Price: $ ${product.product_price}</h5>
-                <h5>Rating: ${product.product_ratings}</h5>
-                <button id="${product._id}" class="addBtn">add to cart</button>
+                <h5>Price: Rs. ${product.product_price}</h5>
+                <button id="${product._id}" class="addBtn">Add to cart</button>
             </div>
         </div>
     `)

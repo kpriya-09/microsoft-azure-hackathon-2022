@@ -22,7 +22,6 @@ const getProducts = () => {
 const displayCart = () => {
     cartListEl.innerHTML = `
         <tr>
-            <th>Product</th>
             <th>Name</th>
             <th>Price</th>
             <th>Quantity</th>
@@ -32,7 +31,6 @@ const displayCart = () => {
 
     cartListEl.innerHTML += products.map(product=>`
         <tr>
-            <td><img src="${product.img}" alt="product-image"></td>
             <td><h4>${product.name}</h4></td>
             <td><h5>${product.price}</h5></td>
             <td>${product.qty}</td>
@@ -79,7 +77,7 @@ function calculateCartTotal(){
 
 // updates cart total in DOM and local storage
 function updateCartTotal(cartTotal){
-    totalEl.innerHTML = ` TOTAL : $ ${cartTotal}`;
+    totalEl.innerHTML = ` TOTAL : Rs. ${cartTotal}`;
     localStorage.setItem('cartTotal', cartTotal);
 }
 

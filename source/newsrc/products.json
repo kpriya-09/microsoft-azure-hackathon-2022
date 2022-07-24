@@ -1,0 +1,73 @@
+{
+"success":true,
+"datatype":"ALL PRODUCTS",
+"numOfResults":20,
+"lastPage":80,
+"page":1,
+"data": [
+{
+    "product_image_md":"/sanitaryNapkins.png",
+    "_id":"1",
+    "product_description": "hey", 
+    "product_name":"Sanitary Napkins",
+    "product_type":"Hygiene",
+    "product_price":200,
+    "product_ratings":7
+},
+{
+    "product_image_md":"/mensturalCups.png",
+    "_id":"2",
+    "product_name":"Menstural Cups",
+    "product_type":"Hygiene",
+    "product_price":290,
+    "product_ratings":9
+},
+{
+    "product_image_md":"/Tampons.png",
+    "_id":"3",
+    "product_name":"Tampons",
+    "product_type":"Hygiene",
+    "product_price":100,
+    "product_ratings":8
+},
+{
+    "product_image_md":"/Planb.png",
+    "_id":"4",
+    "product_name":"Emergency Contraceptive Pills",
+    "product_type":"Women",
+    "product_price":110,
+    "product_ratings":2
+},
+{
+    "product_image_md":"/FemaleCondoms.png",
+    "_id":"5",
+    "product_name":"Female Condoms",
+    "product_type":"Hygiene",
+    "product_price":149,
+    "product_ratings":8
+},
+{
+    "product_image_md":"/MaleCondoms.png",
+    "_id":"6",
+    "product_name":"Male Condoms",
+    "product_type":"Hygiene",
+    "product_price":49,
+    "product_ratings":8   
+},
+{
+    "product_image_md":"/PainReliefPatches.png",
+    "_id":"7",
+    "product_name":"Period Pain Relief Patches",
+    "product_type":"Hygiene",
+    "product_price":85,
+    "product_ratings":8   
+},
+{
+    "product_image_md":"/HotWaterBag.png",
+    "_id":"8",
+    "product_name":"Rubber Hot Water Bag for Muscle Pain & Pain Relief",
+    "product_type":"Hygiene",
+    "product_price":130,
+    "product_ratings":8   
+}
+]}

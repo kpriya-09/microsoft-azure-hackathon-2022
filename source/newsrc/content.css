@@ -2,12 +2,13 @@ body{
     /* display: flex;
     justify-content: center; */
     background-color: #ede2fa;
+    background-image: url('/banner5.png');
     margin: 0;
     padding: 0;
 }
 .vids{
     display: flex;
     justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 30rem;
+    margin-right: 30rem;
 }

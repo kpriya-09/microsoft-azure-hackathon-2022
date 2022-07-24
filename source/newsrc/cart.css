@@ -1,6 +1,7 @@
 body{
     background-color: #ede2fa;
     /* text-align: center; */
+    background-image: url('/banner4.png');
     margin: 0;
     padding: 0;
 }
